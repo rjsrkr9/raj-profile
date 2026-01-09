@@ -74,7 +74,7 @@ section {
 .home {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     gap: 5rem;
 }
 
@@ -151,7 +151,7 @@ span {
 .about {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     gap: 5rem;
     background: var(--second-bg-color);
 }
@@ -442,4 +442,5 @@ span {
         width: 100%;
     }
 }
+
 
